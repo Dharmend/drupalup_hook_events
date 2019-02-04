@@ -1,0 +1,6 @@
+name: 'Drupal Up hook events'
+description: 'Events instead of hooks'
+type: module
+core: 8.x
+dependencies:
+  - 'drupal:hook_event_dispatcher'
